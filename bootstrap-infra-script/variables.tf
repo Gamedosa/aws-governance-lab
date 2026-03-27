@@ -25,3 +25,8 @@ variable "owner" {
   type    = string
   default = "gabriel"
 }
+
+variable "admin_user_name" {
+  type    = string
+  default = "gabriel-admin"
+}
