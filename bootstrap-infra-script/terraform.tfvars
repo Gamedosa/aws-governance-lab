@@ -1,0 +1,6 @@
+aws_region    = "us-east-1"
+github_org    = "Gamedosa"
+github_repo   = "aws-governance-lab"
+github_branch = "main"
+project_name  = "aws-governance-lab"
+owner         = "gabriel"
